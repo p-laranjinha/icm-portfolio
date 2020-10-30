@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/numdeletebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:hint="@string/numdelete"
+        android:onClick="onDelButtonClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/editTextPhone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/editTextPhone" />
+
+    <Button
+        android:id="@+id/num1button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num1"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBottom_toTopOf="@+id/num4button"
+        app:layout_constraintEnd_toStartOf="@+id/num2button"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/speeddial1" />
+
+    <Button
+        android:id="@+id/num2button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num2"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/num1button"
+        app:layout_constraintEnd_toStartOf="@+id/num3button"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/num1button" />
+
+    <Button
+        android:id="@+id/num3button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num3"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/num2button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/num2button" />
+
+    <Button
+        android:id="@+id/num4button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num4"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBottom_toTopOf="@+id/num7button"
+        app:layout_constraintEnd_toStartOf="@+id/num5button"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/num1button" />
+
+    <Button
+        android:id="@+id/num5button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num5"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/num4button"
+        app:layout_constraintEnd_toStartOf="@+id/num6button"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/num4button" />
+
+    <Button
+        android:id="@+id/num6button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num6"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/num5button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/num5button" />
+
+    <Button
+        android:id="@+id/num7button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num7"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBottom_toTopOf="@+id/numasteriskbutton"
+        app:layout_constraintEnd_toStartOf="@+id/num8button"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/num4button" />
+
+    <Button
+        android:id="@+id/num8button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num8"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/num7button"
+        app:layout_constraintEnd_toStartOf="@+id/num9button"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/num7button" />
+
+    <Button
+        android:id="@+id/num9button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num9"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/num8button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/num8button" />
+
+    <Button
+        android:id="@+id/num0button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/num0"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/numasteriskbutton"
+        app:layout_constraintEnd_toStartOf="@+id/numhashtagbutton"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/numasteriskbutton" />
+
+    <Button
+        android:id="@+id/numasteriskbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/numasterisk"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBottom_toTopOf="@+id/dialbutton"
+        app:layout_constraintEnd_toStartOf="@+id/num0button"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/num7button" />
+
+    <Button
+        android:id="@+id/numhashtagbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/numhashtag"
+        android:onClick="onNumButtonClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/num0button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/num0button" />
+
+    <Button
+        android:id="@+id/speeddial1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/speeddial1"
+        android:onClick="onSpeedDialClick"
+        app:layout_constraintBottom_toTopOf="@+id/num1button"
+        app:layout_constraintEnd_toStartOf="@+id/speeddial2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextPhone" />
+
+    <Button
+        android:id="@+id/speeddial2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/speeddial2"
+        android:onClick="onSpeedDialClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/speeddial1"
+        app:layout_constraintEnd_toStartOf="@+id/speeddial3"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/speeddial1" />
+
+    <Button
+        android:id="@+id/speeddial3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/speeddial3"
+        android:onClick="onSpeedDialClick"
+        app:layout_constraintBaseline_toBaselineOf="@+id/speeddial2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/speeddial2" />
+
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:autofillHints=""
+        android:clickable="false"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:hint="@string/dialphonenum"
+        android:inputType="phone"
+        android:longClickable="false"
+        app:layout_constraintBottom_toTopOf="@+id/speeddial1"
+        app:layout_constraintEnd_toStartOf="@+id/numdeletebutton"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/dialbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/dialbutton"
+        android:onClick="onDialButtonClick"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/numasteriskbutton" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Oct 30 17:50:43 WET 2020
+0.baseType=DIRECTORY
+0.base=/home/stone/Desktop/ICM/icm-portfolio/lab2c-Fragments/SongDetail/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

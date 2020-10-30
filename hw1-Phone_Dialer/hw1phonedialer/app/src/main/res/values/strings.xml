@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HW1 Phone Dialer</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="num0">0</string>
+    <string name="numasterisk">*</string>
+    <string name="numhashtag">#</string>
+    <string name="speeddial1">Not set</string>
+    <string name="speeddial2">Not set</string>
+    <string name="speeddial3">Not set</string>
+    <string name="numdelete">Delete</string>
+    <string name="dialphonenum"> </string>
+    <string name="dialbutton">Dial</string>
+    <string name="edit_speed_dial_name_label">Name:</string>
+    <string name="edit_speed_dial_num_label">Phone number:</string>
+    <string name="edit_speed_dial_name"> </string>
+    <string name="edit_speed_dial_num"> </string>
+    <string name="save_speed_dial_button">Save</string>
+    <string name="cancel_speed_dial_button">Cancel</string>
+    <string name="reset_speed_dial_button">Reset</string>
+</resources>

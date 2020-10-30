@@ -1,0 +1,4 @@
+#Fri Oct 30 16:37:54 WET 2020
+base.0=/home/stone/Desktop/ICM/icm-portfolio/lab2c-Fragments/FragmentExample1/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
