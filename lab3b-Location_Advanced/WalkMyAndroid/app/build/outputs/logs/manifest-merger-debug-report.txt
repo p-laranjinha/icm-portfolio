@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d61f471933d9d70ea50e7a89047f58bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/stone/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/b2a4dd3676da8d1e00596b52c7e12d5c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-location-17.1.0.aar/3ff43e2fbba718db25ea31ce1745fe33/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-base-17.3.0.aar/893a5584857f611a24e041164ed115f1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-17.0.0.aar/f134fe1d17467f12a18dd17f7987d2b1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.1.0.aar/5feba326eaea97dbd07276972b34dcfc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.3.0.aar/c146f39c708fcc1da6fea1d7164b0a5b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f703b46928b0416d3289e1051853a2a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9313f536db01af3508159badefbe1411/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/ab3a033a9ea56d0d0eaf8a88e1c9675c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/c8c973d316dc0ca18e52ed6d820a2e80/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/b05c4680b19b2fd50a27b5a37c9444a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6cf21ec53ac2570ac278042bb5b9ff1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/54e4ef7898f19cd3505f6c419d1aa440/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/76ac9d3670e69097e69ba46cb29b7600/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/09b60211584e5e4e2761fbbba635113e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c3bf8cf36986097b92c569547a649692/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d6ef3b5e31c446bb552ab17963d16a9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6d77fc75667ec3b856d4353e41223120/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/aed2be35bdf793933fb89523170ad505/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /home/stone/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/12086ee6e223a6b68f724011ab7f8a6b/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/f11f0673c6c7cc76e89df1694eafe454/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/0525ed1aae406bdfb9f34d400729c44d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e858f5f7d46a28d7b34af3efb1ad7674/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c0b8714614db84cf4cc202a7b437db7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/13473a85aa3c9bc69ffc701901820d66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/2805a078e7c41398ae4135de30468e73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/fee49a982ad07df1675ccdf6e14ef1e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b923a4a8d8cb0b0ce4dc77e81fda7515/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/418c766f4b5226f07cba7ff5218048e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6d3d92e2a9df5b5e830f0c0f377659eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/05931e055f1f805532a35a01120a68cc/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+	package
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:17:5-48
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:1-38:12
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:19:22-76
+application
+ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:21:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/stone/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/b2a4dd3676da8d1e00596b52c7e12d5c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/stone/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/b2a4dd3676da8d1e00596b52c7e12d5c/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-location-17.1.0.aar/3ff43e2fbba718db25ea31ce1745fe33/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-location-17.1.0.aar/3ff43e2fbba718db25ea31ce1745fe33/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-base-17.3.0.aar/893a5584857f611a24e041164ed115f1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-base-17.3.0.aar/893a5584857f611a24e041164ed115f1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-17.0.0.aar/f134fe1d17467f12a18dd17f7987d2b1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-17.0.0.aar/f134fe1d17467f12a18dd17f7987d2b1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.1.0.aar/5feba326eaea97dbd07276972b34dcfc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.1.0.aar/5feba326eaea97dbd07276972b34dcfc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.3.0.aar/c146f39c708fcc1da6fea1d7164b0a5b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.3.0.aar/c146f39c708fcc1da6fea1d7164b0a5b/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /home/stone/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/12086ee6e223a6b68f724011ab7f8a6b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /home/stone/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/12086ee6e223a6b68f724011ab7f8a6b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/f11f0673c6c7cc76e89df1694eafe454/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/f11f0673c6c7cc76e89df1694eafe454/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /home/stone/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/12086ee6e223a6b68f724011ab7f8a6b/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.walkmyandroid.MainActivity
+ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d61f471933d9d70ea50e7a89047f58bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/d61f471933d9d70ea50e7a89047f58bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/stone/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/b2a4dd3676da8d1e00596b52c7e12d5c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/stone/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/b2a4dd3676da8d1e00596b52c7e12d5c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-location-17.1.0.aar/3ff43e2fbba718db25ea31ce1745fe33/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-location-17.1.0.aar/3ff43e2fbba718db25ea31ce1745fe33/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-base-17.3.0.aar/893a5584857f611a24e041164ed115f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-base-17.3.0.aar/893a5584857f611a24e041164ed115f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-17.0.0.aar/f134fe1d17467f12a18dd17f7987d2b1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-17.0.0.aar/f134fe1d17467f12a18dd17f7987d2b1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.1.0.aar/5feba326eaea97dbd07276972b34dcfc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.1.0.aar/5feba326eaea97dbd07276972b34dcfc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.3.0.aar/c146f39c708fcc1da6fea1d7164b0a5b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.3.0.aar/c146f39c708fcc1da6fea1d7164b0a5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f703b46928b0416d3289e1051853a2a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f703b46928b0416d3289e1051853a2a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9313f536db01af3508159badefbe1411/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9313f536db01af3508159badefbe1411/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/ab3a033a9ea56d0d0eaf8a88e1c9675c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/ab3a033a9ea56d0d0eaf8a88e1c9675c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/c8c973d316dc0ca18e52ed6d820a2e80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/c8c973d316dc0ca18e52ed6d820a2e80/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/b05c4680b19b2fd50a27b5a37c9444a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/b05c4680b19b2fd50a27b5a37c9444a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6cf21ec53ac2570ac278042bb5b9ff1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6cf21ec53ac2570ac278042bb5b9ff1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/54e4ef7898f19cd3505f6c419d1aa440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/54e4ef7898f19cd3505f6c419d1aa440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/76ac9d3670e69097e69ba46cb29b7600/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/76ac9d3670e69097e69ba46cb29b7600/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/09b60211584e5e4e2761fbbba635113e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/09b60211584e5e4e2761fbbba635113e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c3bf8cf36986097b92c569547a649692/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c3bf8cf36986097b92c569547a649692/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d6ef3b5e31c446bb552ab17963d16a9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d6ef3b5e31c446bb552ab17963d16a9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6d77fc75667ec3b856d4353e41223120/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6d77fc75667ec3b856d4353e41223120/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/aed2be35bdf793933fb89523170ad505/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/aed2be35bdf793933fb89523170ad505/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /home/stone/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/12086ee6e223a6b68f724011ab7f8a6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /home/stone/.gradle/caches/transforms-1/files-1.1/core-1.2.0.aar/12086ee6e223a6b68f724011ab7f8a6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/f11f0673c6c7cc76e89df1694eafe454/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/stone/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/f11f0673c6c7cc76e89df1694eafe454/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/0525ed1aae406bdfb9f34d400729c44d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/0525ed1aae406bdfb9f34d400729c44d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e858f5f7d46a28d7b34af3efb1ad7674/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e858f5f7d46a28d7b34af3efb1ad7674/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c0b8714614db84cf4cc202a7b437db7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c0b8714614db84cf4cc202a7b437db7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/13473a85aa3c9bc69ffc701901820d66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/13473a85aa3c9bc69ffc701901820d66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/2805a078e7c41398ae4135de30468e73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/2805a078e7c41398ae4135de30468e73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/fee49a982ad07df1675ccdf6e14ef1e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/fee49a982ad07df1675ccdf6e14ef1e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b923a4a8d8cb0b0ce4dc77e81fda7515/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b923a4a8d8cb0b0ce4dc77e81fda7515/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/418c766f4b5226f07cba7ff5218048e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/418c766f4b5226f07cba7ff5218048e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6d3d92e2a9df5b5e830f0c0f377659eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6d3d92e2a9df5b5e830f0c0f377659eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/05931e055f1f805532a35a01120a68cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/stone/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/05931e055f1f805532a35a01120a68cc/AndroidManifest.xml:20:5-44
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-base-17.3.0.aar/893a5584857f611a24e041164ed115f1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-base-17.3.0.aar/893a5584857f611a24e041164ed115f1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-base-17.3.0.aar/893a5584857f611a24e041164ed115f1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/play-services-base-17.3.0.aar/893a5584857f611a24e041164ed115f1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.3.0.aar/c146f39c708fcc1da6fea1d7164b0a5b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.3.0.aar/c146f39c708fcc1da6fea1d7164b0a5b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/stone/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.3.0.aar/c146f39c708fcc1da6fea1d7164b0a5b/AndroidManifest.xml:24:13-58

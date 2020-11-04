@@ -1,0 +1,4 @@
+#Tue Nov 03 20:19:17 WET 2020
+base.0=/home/stone/Desktop/ICM/icm-portfolio/lab3b-Location_Advanced/WalkMyAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
